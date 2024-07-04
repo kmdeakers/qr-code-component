@@ -1,0 +1,32 @@
+body {
+    background-color: lightgrey;
+}
+
+#container {
+    background-color: white;
+    width: 320px;
+    height: 497px;
+    border-radius: 10px;
+
+}
+
+p {
+    width: 288px;
+    height: 129px;
+    /* text-align: center; */
+}
+
+#first-sentence {
+    font-size: 22px;
+    font-weight: 700;
+    font-family: "Outfit";
+    width: 288px;
+    /* text-align: center; */
+    align-content: center;
+}
+
+#second-sentence {
+    font-size: 15px;
+    font-weight: 400;
+    font-family: "Outfit";
+}
